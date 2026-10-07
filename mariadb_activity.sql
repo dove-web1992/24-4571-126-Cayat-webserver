@@ -24,7 +24,7 @@ SELECT * FROM students
 WHERE year_level >= 2;
 
 INSERT INTO students (name, course, year_level)
-VALUES ('YOUR NAME', 'YOUR COURSE', 1);
+VALUES ('Dave Cayat', 'BSIT', 3);
 
 UPDATE students
 SET year_level = 2
